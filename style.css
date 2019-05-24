@@ -1,0 +1,745 @@
+h1{
+    margin-left: 10px;
+    color:white;
+    font-size: 45px;
+    margin-top: 10px;
+    font-family:  Impact, fantasy;
+}
+
+body{
+    background-image: url(fon4.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.polosa{
+    background-color:white;
+    height: 3px;
+    width: 100vw;
+}
+
+
+.img_milliard{
+   background-image: url(milliard.jpg);
+    width: 1200px;
+    height: 700px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 35vw;
+}
+
+
+.segodna_v_kino{
+    color:white;
+    font-size: 50px;
+    margin-top: 3vh;
+    margin-left: 1vw;
+}
+
+
+.mstiteli_tekst{
+    color:white;
+    font-size: 55px;
+    margin-left: 36vw;
+    margin-top: 6vh;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+
+.img_mstiteli{
+    background-image: url(mstiteli%20%20tanos%20i%20dr.jpg);
+    width: 850px;
+    height: 700px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 26vw;
+    margin-top: 4vh;
+    
+}
+
+
+.milliard_tekst{
+    color:white;
+    font-size: 55px;
+    margin-left: 41vw;
+    margin-top: 6vh;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+
+.img_Sea_Cinema{
+    ;background-image: url(g209249.jpg);
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+
+.gde_kypit_bileti{
+    color:white;    
+    font-size: 27px;
+    margin-left: 8vw;
+    margin-top: 15px;
+    font-family: Andale Mono, monospace	;
+}
+
+.kak_nas_naiti{
+    color:white;
+    font-size: 27px;
+    margin-left: 8vw;
+    margin-top: 15px;
+    font-family: Andale Mono, monospace	;
+}
+
+.texpodderjka{
+    color:white;
+    font-size: 27px;
+    margin-left: 8vw;
+    margin-top: 15px;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.FAQ{
+    color:white;
+    font-size: 27px;
+    margin-left: 8vw;
+    margin-top: 15px;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.yznat_bolshe1{
+    width: 240px;
+    height: 40px;
+    background-color: #511edf;
+    margin-top: -23vh;
+    margin-left: 42vw;
+}
+
+.yznat_bolshe2{
+    width: 240px;
+    height: 40px;
+    background-color: #511edf;
+    margin-left: 42vw;
+}
+
+
+.yznat_bolshe_tekst{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+   font-family:  Comic Sans MS, Comic Sans, cursive;
+}
+
+
+
+.lovehistory_tekst{
+    color:white;
+    font-size: 55px;
+    margin-left: 38vw;
+    margin-top: 6vh;  
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+
+.img_lovehistory{
+    background-image: url(history%20love.jpg);
+    width: 850px;
+    height: 700px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 26vw;
+    margin-top: 4vh;
+}
+
+
+
+
+.yznat_bolshe3{
+    width: 240px;
+    height: 40px;
+    background-color: #511edf;
+    margin-left: 42vw;
+    margin-top: -54vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.o_nas{
+color:white;
+    font-size: 55px;
+    margin-top: 5vh;
+    font-family:  Impact, fantasy;
+    margin-left: 1vw;
+}
+
+
+
+.polosa2{
+    height: 5px;
+    background-color:white;
+    margin-top: 2vh;
+}
+
+.tekst_o_nas{
+    color:white;
+    font-size: 25px;
+    margin-top: 6vh;
+    text-align: center;
+}
+
+
+
+.img_little_zals{
+    background-image: url(little_zals.jpg);
+    width: 400px;
+    height: 300px;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 5vh;
+    margin-left: 15vw;
+    
+}
+
+.img_big_zals{
+    background-image: url(big_zals.jpg);
+    width: 400px;
+    height: 270px;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 5vh;
+    margin-left: 17vw;
+}
+
+
+.tekst_little_zals{
+    color:white;
+    font-size: 30px;
+    width: 340px;
+    margin-left: 17vw;
+    font-family: Andale Mono, monospace	;
+}
+
+.tekst_little_zals2{
+    color:white;
+    font-size: 30px;
+    width: 1500px;
+    margin-left: 10vw; 
+    margin-top: 5vh;
+    font-family: Andale Mono, monospace	;
+}
+
+.tekst_big_zals{
+    color:white;
+    font-size: 30px;
+    width: 400px;
+    margin-left: 19vw;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.img_cinema1{
+    background-image:url(outdoor-beach-cinema.jpg);
+    width: 300px;
+    height: 200px;
+    margin-left: 10vw;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 4vh;
+}
+
+
+
+.img_cinema2{
+    background-image:url(cinema-paradiso-soneva-kiri.jpg);
+    width: 300px;
+    height: 200px;
+    margin-left: 10vw;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 4vh;
+}
+
+.img_cinema3{
+    background-image:url(alfresco-beach-cinema.jpg);
+    width: 300px;
+    height: 200px;
+    margin-left: 10vw;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-top: 4vh;
+}
+
+
+
+
+
+
+
+
+
+.img_mstiteli_podrobnee{
+    background-image: url(mstiteli%20poster.jpg);
+    width: 540px;
+    height: 800px;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left: 3vw;
+    margin-top: 3vh;   
+}
+
+
+
+.D2{
+    color:white;
+    font-size: 40px;
+    margin-top: 4vh;
+    margin-left: 28vw;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.D3{
+   color:white;
+    font-size: 40px; 
+    margin-top: 8vh;
+    margin-left: 28vw;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.Imax_D3{
+    color:white;
+    font-size: 40px;
+    margin-top: 10vh;
+    margin-left: 28vw;
+    font-family: Andale Mono, monospace	;
+}
+
+.bilet1{
+    color:white;
+    width: 70px;
+    height: 30px;
+    background-color: #511edf;
+    margin-top: 2vh;
+    margin-left: 28vw;
+    text-align: center;
+    font-family:  Comic Sans MS, Comic Sans, cursive;
+}
+
+
+.bilet{
+    color:white;
+    width: 70px;
+    height: 30px;
+    background-color: #511edf;
+    margin-top: 2vh;
+    margin-left: 2vw;
+    text-align: center;
+    font-family:  Comic Sans MS, Comic Sans, cursive;
+}
+
+
+.hi{
+    color:white;
+    margin-left: 28vw;
+    font-size: 23px;
+    margin-top: 6vh;
+    font-family: Andale Mono, monospace	;
+}
+
+.hi1{
+    color:white;
+    margin-left: 28vw;
+    font-size: 23px;
+    margin-top: 2vh;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.hi2{
+    color:darkgray;
+    margin-left: 28vw;
+    font-size: 16px;
+    margin-top: -1vh;    
+    font-family: Andale Mono, monospace	;
+}
+
+
+.himo{
+    color:darkgray;
+    margin-left: 28vw;
+    font-size: 16px;
+    margin-top: -1vh;  
+    font-family: Andale Mono, monospace	;
+}
+
+
+
+
+
+
+
+
+.img_milliard_podrobnee{
+    background-image: url(milliard.jpg);
+    width: 440px;
+    height: 600px;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left: 3vw;
+    margin-top: 3vh;  
+}
+
+
+
+
+
+
+.img_v_metre_podrobnee{
+    background-image: url(v%20metre%20dryg%20ot%20dryga.jpg);
+    width: 440px;
+    height: 600px;
+    -webkit-background-size: contain;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left: 3vw;
+    margin-top: 3vh;    
+}
+
+.mstiteli_tekst2{
+    color:white;
+    font-size: 55px;
+    margin-left: 29vw;
+    margin-top: 6vh;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+
+
+
+
+
+
+
+.kolona1{
+    width: 250px;
+    height: 280px;
+    margin-top: 5vh;
+    margin-left: 30vw;
+}
+
+.kolona2{
+    width: 250px;
+    height: 280px;
+    margin-top: 5vh;
+    margin-left: 10vw;
+}
+
+
+
+.div_glav{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 25px;
+}
+
+
+
+.div_o_nas{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 25px;
+    margin-top: 3vh;
+}
+
+
+.div_gde_nas_naiti{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 25px;
+    margin-top: 3vh;
+}
+
+
+.div_otzivi{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 25px;
+    margin-top: 3vh;
+}
+
+
+.div_FAQ{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 25px;
+    margin-top: 3vh;
+}
+
+
+.div_vk{
+    background-image: url(vk.png); 
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+.div_insta{
+    background-image: url(ins.jpg);
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 5vw;
+}
+
+
+.div_vk_tekst{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 29px;
+    margin-top: 1vh;
+    margin-left: 1vw;
+}
+
+
+.div_insta_tekst{
+    color:white;
+    font-family: Andale Mono, monospace	;
+    font-size: 29px;
+    margin-top: 1vh;
+    margin-left: 4vw;
+    
+}
+
+
+.polosa3{
+    background-color:white;
+    height: 3px;
+    width: 100vw;
+    margin-top: 10vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vopros1{
+    color:white;  
+    margin-top: 5vh;
+    font-size: 27px;
+    font-family: DejaVu Sans Mono, monospace;
+    text-align: left;
+}
+
+
+.otvet1{
+    color:white;
+    font-size: 18px;
+    font-family: Andale Mono, monospace	;
+    text-align: left;
+    
+}
+
+.vopros2{
+    color:white;  
+    margin-top: 5vh;
+    font-size: 27px;
+    font-family: DejaVu Sans Mono, monospace;
+        
+}
+
+
+.otvet2{
+    color:white;
+    font-size: 18px;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.vopros3{
+    color:white;  
+    margin-top: 5vh;
+    font-size: 27px;
+    font-family: DejaVu Sans Mono, monospace;
+    text-align: left;
+}
+
+
+.otvet3{
+    color:white;
+    font-size: 18px;
+    font-family: Andale Mono, monospace	;
+    text-align: left;
+}
+
+
+.vopros4{
+    color:white;  
+    margin-top: 5vh;
+    font-size: 27px;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+
+.otvet4{
+    color:white;
+    font-size: 18px;
+    font-family: Andale Mono, monospace	;
+}
+
+
+.vopros5{
+    color:white;  
+    margin-top: 5vh;
+    font-size: 27px;
+    font-family: DejaVu Sans Mono, monospace;
+    text-align: left;
+}
+
+
+.otvet5{
+    color:white;
+    font-size: 18px;
+    font-family: Andale Mono, monospace	;
+    text-align: left;
+}
+
+
+.img_chelovek1{
+    background-image: url(chelovek1.jpg!d);
+    width: 360px;
+    height: 360px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 15vw;
+    margin-top: 5vh;
+}
+
+
+
+
+.chelovek1_tekst{
+    color:white;
+    margin-top: 5vh;
+    height: 860px;
+    width: 1060px;
+    font-size: 28px;
+    font-family: Andale Mono, monospace	;
+    margin-left: 3vw;
+}
+
+
+
+
+.img_chelovek2{
+        background-image: url(chelovek2.jpg!d);
+    width: 360px;
+    height: 360px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 70vw;
+    margin-top: -50vh;        
+}
+
+
+.chelovek2_tekst{
+    color:white;
+    margin-top: -57vh;
+    height: 450px;
+    width: 960px;
+    font-size: 28px;
+    font-family: Andale Mono, monospace	;   
+    margin-left: 8vw;
+}
+
+
+
+
+.img_chelovek3{
+    background-image: url(chelovek3.jpg!d);
+    width: 360px;
+    height: 360px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 18vw;
+    
+}
+
+
+
+.chelovek3_tekst{
+    color:white;
+    margin-top: -30vh;
+    height: 450px;
+    width: 960px;
+    font-size: 28px;
+    font-family: Andale Mono, monospace	;   
+    margin-left: 35vw;    
+}
+
+
+
+
+
+
+iframe{
+    margin-top: 10vh;
+    margin-left: 32vw;
+}
